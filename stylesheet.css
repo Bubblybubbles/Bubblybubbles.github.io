@@ -1,5 +1,11 @@
+html{
+     height:100%;
+}
 body {
      background-image: url("https://mmls.mmu.edu.my/wordpress/1161101803/wp-content/uploads/sites/34374/2017/02/vector-bokeh-06.jpg");
+     background-position:center center;
+     background-size:cover;
+}
     color: white;
 }
 
